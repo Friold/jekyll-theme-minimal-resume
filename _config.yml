@@ -17,13 +17,13 @@ linkedin_username: lexanne
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
 
-site.h1: Test H1
-site.h2_col1: Test H2 Col1
-site.h2_col1_description: Test H2 Col1 Description
-site.h2_col2: Test H2 Col2
-site.h2_col2_description: Test H2 Col2 Description
-site.h2_col3: Test H2 Col3
-site.h2_col3_description: Test H2 Col3 Description
+head1: Test H1
+head2_col1: Test H2 Col1
+head2_col1_description: Test H2 Col1 Description
+head2_col2: Test H2 Col2
+head2_col2_description: Test H2 Col2 Description
+head2_col3: Test H2 Col3
+head2_col3_description: Test H2 Col3 Description
 
 
 
